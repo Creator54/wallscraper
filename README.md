@@ -9,5 +9,8 @@ sxiv
 python3
 pup
 
+# Preview:
+![Preview](./preview.gif)
+
 ## LICENSE
 MIT
